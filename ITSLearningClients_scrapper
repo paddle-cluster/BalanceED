@@ -1,0 +1,1 @@
+{"_id":"itslearning","startUrl":["https://www.itslearning.com/welcome.aspx"],"selectors":[{"id":"clients","type":"SelectorText","parentSelectors":["_root"],"selector":"li.ui-menu-item:nth-of-type(n+2)","multiple":true,"regex":"","delay":0}]}
