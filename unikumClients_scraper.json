@@ -1,1 +1,2 @@
-{"_id":"unikum_login","startUrl":["https://start.unikum.net/unikum/appLogin.ahtml"],"selectors":[{"id":"client","type":"SelectorText","parentSelectors":["_root"],"selector":"span.large","multiple":true,"regex":"","delay":0}]}
+{"_id":"unikum_login","startUrl":["https://start.unikum.net/unikum/appLogin.ahtml"],
+ "selectors":[{"id":"client","type":"SelectorText","parentSelectors":["_root"],"selector":"span.large","multiple":true,"regex":"","delay":0}]}
