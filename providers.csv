@@ -1,0 +1,58 @@
+﻿Name,Category,Domain
+Google,GAFAM,google
+Google,GAFAM,doubleclick
+Google,GAFAM,gstatic
+Amazon,GAFAM,amazon
+Amazon,GAFAM,aws
+Amazon,GAFAM,cloudfront
+Amazon,GAFAM,elasticbeanstalk
+Facebook,GAFAM,facebook
+Facebook,GAFAM,fbcdn
+Facebook,GAFAM,fbsbx
+Apple,GAFAM,aapl
+Apple,GAFAM,apple
+Microsoft,GAFAM,msedge
+Microsoft,GAFAM,office
+Microsoft,GAFAM,azure
+Microsoft,GAFAM,trafficmanager
+Microsoft,GAFAM,microsoft
+Microsoft,GAFAM,sharepoint
+Microsoft,GAFAM,cloudapp
+Microsoft,GAFAM,cloudapp azure
+Baidu,BATX,baidu
+Alibaba,BATX,alikunlun
+Alibaba,BATX,aliyun
+Alibaba,BATX,alicdn
+Alibaba,BATX,alibaba
+Tencent,BATX,tencent
+Xiaomi,BATX,xiaomi
+Akamai,CDN/Edge,akamai
+Akamai,CDN/Edge,akamaiedge
+Akamai,CDN/Edge,akadns
+Verizon,CDN/Edge,edgecast
+Verizon,CDN/Edge,kappacdn
+Verizon,CDN/Edge,alphacdn
+Verizon,CDN/Edge,phicdn
+Verizon,CDN/Edge,verizon
+Verizon,CDN/Edge,omegacdn
+Verizon,CDN/Edge,yahoo
+IOTA,CDN/Edge,iota
+Section,CDN/Edge,section
+Huawei,PaaS,huawei
+IBM,PaaS,bluemix
+IBM,PaaS,ibm
+Heroku,PaaS,heroku
+Verisign,Security,mcast
+Verisign,Security,verisign
+Fastly,Security,fastly
+Imperva,Security,incap
+Imperva,Security,imperva
+Piano,Marketing Analytics,tinypass
+Boomtrain,Marketing Analytics,boomtrain
+Permutive,Customer Data Platform,permutive
+Blueconic,Customer Data Platform,blueconic
+Lytics,Customer Data Platform,lytic
+Lotame,Customer Data Platform,lotame
+Lotame,Customer Data Platform,crwdcntrl
+Zoom,User-facing,zoom
+Zotero,User-facing,zotero
