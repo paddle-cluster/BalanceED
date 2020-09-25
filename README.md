@@ -1,4 +1,4 @@
-This repository contains tools written for the BalancED research project at the University of Gothenburg. It includes analysis tools for data from packet sniffing and screen activity tracking applications designed to help reveal the platform usage of users along with the infrastructures at play.
+This repository contains tools written for the [BalancED](https://www.gu.se/en/research/teachers-digital-work-inbalance-between-demands-and-support) research project at the University of Gothenburg. It includes analysis tools for data from packet sniffing and screen activity tracking applications designed to help reveal the platform usage of users along with the infrastructures at play.
 
 # Analysis tools
 ## infrastructureReveal.ipynb
