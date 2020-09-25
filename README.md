@@ -2,8 +2,8 @@
 This repository contains tools written for the [BalancED](https://www.gu.se/en/research/teachers-digital-work-inbalance-between-demands-and-support) research project at the University of Gothenburg. It includes analysis tools for data from packet sniffing and screen activity tracking applications designed to help reveal the platform usage of users along with the infrastructures at play.
 
 ## Analysis tools
-### infrastructureReveal.ipynb
-A Jupyter notebook written in Python that categorizes data from packet sniffing tools such as [Wireshark](https://www.wireshark.org) to reveal the service providers with whom data is exchanged. The category scheme is contained in providers.csv
+### infrastructureReveal.py
+A Python script that categorizes and visualizes data from packet sniffing tools such as [Wireshark](https://www.wireshark.org) to reveal the service providers with whom data is exchanged. The category scheme is contained in providers.csv
 
 ## Data extraction tools
 These scripts can be imported in to the [webscraper.io](https://webscraper.io) Chrome plugin
